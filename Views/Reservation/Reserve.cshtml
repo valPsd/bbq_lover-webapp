@@ -1,0 +1,63 @@
+﻿@model IEnumerable<BBQLover.webapp.Models.Reservation>
+@{
+    ViewData["Title"] = "Reservation Page";
+}
+
+<head>
+    <link rel="stylesheet" href="~/css/ResStyle.css" asp-append-version="true" />
+</head>
+
+<h1>การจอง </h1>
+    <div class="resTable">
+        <table class="table table-striped" style="background-color: #e3f2fd;">
+            <thead>
+                <tr>
+                    <th scope="col">เลขการจอง</th>
+                    <th scope="col">ชื่อลูกค้า</th>
+                    <th scope="col">วันที่</th>
+                    <th scope="col">เวลา</th>
+                    <th scope="col">จำนวนท่าน</th>
+                    <th scope="col">zone</th>
+                    <th scope="col">แก้ไข/ลบ</th>
+                </tr>
+            </thead>
+            <tbody id="client">
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.ResNum</td>
+                        <td>@item.Name</td>
+                        <td>@item.Date</td>
+                        <td>@item.Time</td>
+                        <td>@item.TotalPeople</td>
+                        <td>@item.Zone</td>
+                        <td>
+                            <a href="@Url.Action("Details", "Reservation", new { Id = @item.Id })">
+                                <i class="fas fa-pencil-alt"></i>
+                            </a>
+                            <a href="#" onclick="deleteClicked('@item.Id', '@item.Table', '@item.Date', '@item.Time')">
+                                <i class="fa fa-trash"></i>
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+@section scripts{
+    <script>
+        function deleteClicked(id, table, date, time) {
+            if (confirm('ยืนยันการลบ?')) {
+                $.post("@Url.Action("Delete","Reservation")", { 
+                    id : id, 
+                    table : table, 
+                    date : date, 
+                    time : time } ,function(){
+                    alert("ทำการลบเรียบร้อย");
+                    window.location.reload(true);
+                 });
+            }
+        }
+    </script>
+}

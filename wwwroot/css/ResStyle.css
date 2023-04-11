@@ -1,0 +1,31 @@
+﻿h1 {
+    margin-left: 80px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.resTable {
+    width: 90%;
+    margin: 0 auto;
+}
+
+table  {
+    border-radius: 20px;
+    text-align: center;
+}
+
+tr {
+    padding-left: 20px;
+}
+
+i {
+    margin-left: 10px;
+}
+
+a{
+    color: black;
+}
+
+a:hover{
+    color: darkblue;
+}

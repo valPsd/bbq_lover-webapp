@@ -1,0 +1,74 @@
+﻿@model BBQLover.webapp.Models.Delivery
+@{
+    ViewData["Title"] = "Delivery Detail Page";
+}
+
+<head>
+    <link rel="stylesheet" href="~/css/DetailDeliStyle.css" asp-append-version="true" />
+</head>
+
+<div class="row">
+      <div class="col-lg-1">
+        <img src="~/images/delivery.png" class="img-fluid" width="100" height="80">
+      </div>
+      <div id="col2" class="col-lg-2">
+        <p>หมายเลขออเดอร์</p>
+      </div>
+    </div>
+
+    <div id="buttom" class="row">
+      <p id="deliveryNum">@Model.OrderNum</p>
+    </div>
+
+    <div id="detailRow" class="row">
+      <div class="col-lg-1 tRow">
+        <p>ชื่อลูกค้า</p>
+      </div>
+      <div class="col-lg-3 iRow">
+        <input id="name" type="text" value="@Model.Name" disabled>
+      </div>
+      <div class="col-lg-1 tRow">
+        <p>เบอร์ติดต่อ</p>
+      </div>
+      <div class="col-lg-5 iRow">
+        <input id="phoneNum" type="text" value="@Model.Tel" disabled>
+      </div>
+    </div>
+
+    <div id="detailRow" class="row">
+      <div class="col-lg-1 tRow">
+        <p>ที่อยู่</p>
+      </div>
+      <div class="col-lg-3 iRow">
+        <textarea id="address" rows="3" cols="30" style="overflow-y: scroll; background-color: white;" disabled>@Model.Address</textarea>
+      </div>
+      <div class="col-lg-1 tRow">
+        <p>เพิ่มเติม</p>
+      </div>
+      <div class="col-lg-3 iRow">
+        <input id="more" type="text" value="@Model.More" disabled>
+      </div>
+    </div>
+
+    <div id="detailRow" class="row">
+      <div class="col-lg-1 tRow">
+        <p>ออเดอร์</p>
+      </div>
+      <div class="col-lg-3 iRow" style="height:150px; overflow:auto;">
+        <table id="orders" class="table table-bordered" style="background-color: white;">
+            @foreach (var item in @Model.Orders)
+            {
+                <tr>
+                    <td>@item</td>
+                </tr>
+            }
+        </table>
+      </div>
+    </div>
+
+    <div id="detailRow" class="row" style="justify-content: end; margin-right: 50px; margin-top: 50px;">
+      <div class="col-lg-1 iRow">
+          @Html.ActionLink("กลับ", "Deliver", "Delivery", new {},new {@class="btn btn-light"})
+      </div>
+    </div>
+

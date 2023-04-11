@@ -1,0 +1,41 @@
+﻿h1 {
+    margin-left: 175px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.statusCon {
+    width: 80%;
+    margin: 0 auto;
+}
+
+table {
+    text-align: center;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+thead {
+    background-color: rgb(253, 212, 184);
+}
+
+tbody {
+    background-color: white;
+}
+
+tr {
+    padding-left: 20px;
+}
+
+.dateAndTime {
+    justify-content: center;
+    text-align: center;
+}
+
+input {
+    margin-right: 20px;
+}
+
+select {
+    margin-right: 20px;
+}

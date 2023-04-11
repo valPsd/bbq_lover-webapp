@@ -1,0 +1,31 @@
+html {
+  font-size: 20px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 20px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    background-color: #fe9f60;
+    justify-content: center;
+    font-family: 'Kanit', sans-serif;
+    margin: 0 auto;
+    margin-bottom: 60px;
+}
+
+.navbar-brand img {
+    margin-left: 30px;
+}
+
+#navbarNav {
+    justify-content: end;
+    margin-right: 40px;
+}

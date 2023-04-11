@@ -1,0 +1,166 @@
+﻿@{
+    ViewData["Title"] = "Table Check Page";
+}
+
+<head>
+    <link rel="stylesheet" href="~/css/TableStyle.css" asp-append-version="true" />
+</head>
+
+<h1>ตรวจสอบโต๊ะว่าง</h1>
+        <div class="dateAndTime container-fluid">
+            <p>เลือกวันที่และเวลา</p>
+            <input id="date" type="date" placeholder="เลือกวันที่">
+            <select id="time">
+                <option value="16:00">16:00</option>
+                <option value="17:00">17:00</option>
+                <option value="18:00">18:00</option>
+                <option value="19:00">19:00</option>
+                <option value="20:00">20:00</option>
+                <option value="21:00">21:00</option>
+                <option value="22:00">22:00</option>
+            </select>
+            <input type="submit" class="btn btn-success" id="show" value="show">
+        </div>
+    <br />
+    <div class="statusCon">
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>โต๊ะที่</th>
+                    <th>สถานะ</th>
+                    <th>เปลี่ยนสถานะ</th>
+                </tr>
+            </thead>
+            <tbody id="tableList">
+            </tbody>
+        </table>
+    </div>
+
+@section scripts{
+    <script>
+        var today = new Date();
+        var tDate = today.getFullYear()+'-'+(today.getMonth()+1)+'-'+today.getDate();
+        var tTime;
+        if(today.getHours() < 16 || today.getHours() > 22){
+            tTime = "16:00";
+        }
+        else{
+            tTime = today.getHours() + ":00";
+        }
+        
+        $("#date").val(tDate);
+        $("#time").val(tTime);
+        $.post("@Url.Action("TableCheck","Table")", { 
+                     date : tDate, 
+                     time : tTime,
+                 }, function(data){
+                     data.forEach(item => {
+                         var tr = document.createElement("tr");
+                         var tdNum = document.createElement("td");
+                         var tdStatus = document.createElement("td");
+                         var tdButt = document.createElement("td");
+
+                         tdNum.innerText = item['tableNum'];
+                         var p = document.createElement("p");
+                         p.innerText = item['status'];
+                         p.id = item['tableNum'];
+                         if(item['status'] == "ว่าง"){
+                              p.style = "color: green;";
+                         }
+                         else{
+                              p.style = "color: red;";
+                         }
+                         tdStatus.appendChild(p);
+
+                         var butt = document.createElement("button");
+                         butt.type = "button";
+                         butt.className = "btn btn-success";
+                         butt.innerText = 'change';
+                         butt.id = "change";
+                         butt.onclick = function () { changeClicked(item['tableNum']) };
+                         tdButt.appendChild(butt);
+
+                         tr.appendChild(tdNum);
+                         tr.appendChild(tdStatus);
+                         tr.appendChild(tdButt);
+                         document.getElementById('tableList').appendChild(tr);
+                    });
+                 });
+
+    $(function(){
+        $("#show").click(function(){
+        var date = $("#date").val();
+        var time = $("#time").val();
+        $("#tableList").empty();
+
+        $.post("@Url.Action("TableCheck","Table")", { 
+                     date : date, 
+                     time : time,
+                 }, function(data){
+                     data.forEach(item => {
+                         var tr = document.createElement("tr");
+                         var tdNum = document.createElement("td");
+                         var tdStatus = document.createElement("td");
+                         var tdButt = document.createElement("td");
+
+                         tdNum.innerText = item['tableNum'];
+                         var p = document.createElement("p");
+                         p.innerText = item['status'];
+                         p.id = item['tableNum'];
+                         if(item['status'] == "ว่าง"){
+                              p.style = "color: green;";
+                         }
+                         else{
+                              p.style = "color: red;";
+                         }
+                         tdStatus.appendChild(p);
+
+                         var butt = document.createElement("button");
+                         butt.type = "button";
+                         butt.className = "btn btn-success";
+                         butt.innerText = 'change';
+                         butt.id = "change";
+                         butt.onclick = function () { changeClicked(item['tableNum']) };
+                         tdButt.appendChild(butt);
+
+                         tr.appendChild(tdNum);
+                         tr.appendChild(tdStatus);
+                         tr.appendChild(tdButt);
+                         document.getElementById('tableList').appendChild(tr);
+                    });
+                 });
+        });
+    });
+
+    function changeClicked(table){
+        if (confirm('ยืนยันการเปลี่ยนสถานะของโต๊ะที่ '+table+'?')){
+            var stat = document.getElementById(table);
+            var date = $("#date").val();
+            var time = $("#time").val();
+            if(stat.innerText == "ว่าง"){
+
+                $.post("@Url.Action("Update","Table")", {
+                            table : table,
+                             date : date,
+                             time : time,
+                         }, function(text){
+                            alert(text);
+                            stat.innerText = "ไม่ว่าง"
+                            stat.style = "color: red;";
+                         });
+            }
+            else{
+                $.post("@Url.Action("Delete","Table")", {
+                            table : table,
+                             date : date,
+                             time : time,
+                         }, function(text){
+                            alert(text);
+                            stat.innerText = "ว่าง"
+                            stat.style = "color: green;";
+                         });
+            }
+        }
+    }
+    </script>
+}

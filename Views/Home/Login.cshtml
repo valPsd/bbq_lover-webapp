@@ -1,0 +1,71 @@
+﻿@model BBQLover.webapp.Models.UserModel
+@{
+    ViewData["Title"] = "Login Page";
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>@ViewData["Title"] - BBQLover.webapp</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/LoginStyle.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap">
+    <link rel="stylesheet" href="~/lib/font-awesome/css/all.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8" />
+</head>
+
+<body>
+    <div class="login">
+        <form name="loginForm" asp-action="Login">
+            <table id="loginTable">
+                <tr>
+                    <td id="logoCol">
+                        <img src="~/images/BBQ Lover_round.png" class="img-fluid" width="100" height="100">
+                    </td>
+                    <td>
+                        <b id="loginText">เข้าสู่ระบบ</b>
+                        <p>กรุณาเข้าสู่ระบบ</p>
+                    </td>
+                </tr>
+
+                <tr id="emailRow">
+                    <td></td>
+                    <td>
+                        <div class="icon-form">
+                            <i class="fa fa-envelope"></i>
+                            <input class="input-field" type="email" name="Email" asp-for="Email" placeholder="อีเมล์" required>
+                        </div>
+                    </td>
+                </tr>
+
+                <tr id="passRow">
+                    <td></td>
+                    <td>
+                        <div class="icon-form">
+                            <i class="fa fa-lock"></i>
+                            <input class="input-field" type="Password" name="Password" asp-for="Password" placeholder="รหัสผ่าน"
+                                minlength="6" required>
+                        </div>
+                    </td>
+                </tr>
+
+                <tr id="buttRow" align="center">
+                    <td></td>
+                    <td>
+                        <input type="submit" value="เข้าสู่ระบบ" class="subButt btn btn-primary"/>
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </div>
+</body>
+</html>
+
+<script>
+    var showAlert = "@ViewBag.showAlert";
+var alertMessage = "@ViewBag.alertMessage";
+if (showAlert === "True") {
+    alert(alertMessage);
+}
+</script>

@@ -1,0 +1,76 @@
+﻿body {
+    display: flex;
+    background-image: url('https://drive.google.com/uc?export=view&id=1-j4_KpLAocDAeTV_DpCVAvnAslxGXWQR');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.login {
+    background-color: #B4D3AA;
+    width: 420px;
+    height: 360px;
+    position: absolute;
+    border-radius: 50px;
+    margin-top: 15%;
+}
+
+#loginTable {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#logoCol {
+    padding-right: 10px;
+}
+
+#loginText {
+    font-size: 40px;
+    margin-bottom: 0;
+}
+
+input {
+    font-size: 20px;
+}
+
+p {
+    margin: 0;
+    padding-top: 0;
+    font-size: 20px;
+}
+
+#emailRow > td {
+    padding-top: 20px;
+}
+
+#passRow > td {
+    padding-top: 15px;
+}
+
+#buttRow > td {
+    padding-top: 30px;
+}
+
+.input-field {
+    width: 235px;
+    height: 30px;
+    border: none;
+}
+
+.icon-form {
+    background-color: white;
+    padding-left: 5px;
+}
+
+.subButt {
+    background-color: #e9713a;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 30px;
+    width: 250px;
+}
+
+.alertUnder {
+    color: red;
+    font-size: 15px;
+}

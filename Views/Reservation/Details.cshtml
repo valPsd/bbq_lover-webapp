@@ -1,0 +1,147 @@
+﻿@model BBQLover.webapp.Models.Reservation
+@{
+    ViewData["Title"] = "Detail Reservation Page";
+}
+
+<head>
+    <link rel="stylesheet" href="~/css/DetailResStyle.css" asp-append-version="true" />
+</head>
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-lg-1">
+        <img src="~/images/table.png" class="img-fluid" width="100" height="80">
+      </div>
+      <div id="col2" class="col-lg-2">
+        <p>หมายเลขการจอง</p>
+      </div>
+    </div>
+
+    <div id="buttom" class="row">
+      <p id="bookNum">@Model.ResNum</p>
+    </div>
+
+    <div id="detailRow" class="row">
+      <div class="col-lg-1 tRow">
+        <p>ชื่อลูกค้า</p>
+      </div>
+      <div class="col-lg-3 iRow">
+        <input id="name" type="text" value="@Model.Name" disabled>
+      </div>
+      <div class="col-lg-1 tRow">
+        <p>วันที่</p>
+      </div>
+      <div class="col-lg-3 iRow">
+        <input id="date" type="date" value="@Model.Date">
+      </div>
+      <div class="col-lg-1 tRow">
+        <p>เวลา</p>
+      </div>
+      <div class="col-lg-3 iRow">
+        <select id="time">
+            @for (var i = 16; i < 23; i++)
+            {
+                    string t = i.ToString() + ":00";
+                    if (@Model.Time == t)
+                    {
+                        <option value="@t" selected>@t</option>
+                    }
+                    else
+                    {
+                        <option value="@t">@t</option>
+                    }
+
+            }
+        </select>
+      </div>
+    </div>
+
+    <div id="detailRow" class="row">
+      <div class="col-lg-1 tRow">
+        <p>เบอร์ติดต่อ</p>
+      </div>
+      <div class="col-lg-3 iRow">
+        <input id="tel" type="text" value="@Model.Tel" disabled>
+      </div>
+      <div class="col-lg-1 tRow">
+        <p>จำนวนท่าน</p>
+      </div>
+      <div class="col-lg-3 iRow">
+        <input id="people" type="number" value="@Model.TotalPeople" min="1" max="5">
+      </div>
+    </div>
+
+    <div id="detailRow" class="row">
+      <div class="col-lg-1 tRow">
+        <p>โซน</p>
+      </div>
+      <div class="col-lg-3 iRow">
+        <select id="zone">
+                @{
+                    List<string> list = new List<string>(){ "A (ข้างในอุ่นจัง)", "B (ข้างนอกร้อนจัง)" };
+                    foreach (var item in list)
+                    {
+                        if (@Model.Zone == item)
+                    {
+                        <option value="@item" selected>@item</option>
+                    }
+                    else
+                    {
+                            <option value="@item">@item</option>
+                        }
+                    }
+                }
+            </select>
+        </div>
+        <div class="col-lg-1 tRow">
+        <p>โต๊ะที่</p>
+      </div>
+      <div class="col-lg-3 iRow">
+        <input id="table" type="number" value="@Model.Table" disabled>
+      </div>
+    </div>
+
+    <div id="detailRow" class="row" style="justify-content: end; margin-right: 50px; margin-top: 160px;">
+        <div class="col-lg-2 tRow">
+            <button type="button" class="btn btn-success" id="change">ปรับปรุง</button>
+      </div>
+      <div class="col-lg-1 iRow">
+          @Html.ActionLink("กลับ", "Reserve", new {},new {@class="btn btn-light"})
+      </div>
+    </div>
+  </div>
+
+@section scripts{
+    <script>
+        var url = (document.location).toString();
+        var id = url.substring(url.lastIndexOf('/') + 1);
+        var now = new Date();
+        document.getElementById('date').min = now.getFullYear() + '-' + (now.getMonth() + 1) + '-' + (now.getDate());
+        var date = document.getElementById('date').value;
+        var time = document.getElementById('time').value;
+ 
+        $(function(){
+           $("#change").click(function(e){
+               if (confirm('ยืนยันข้อมูลที่จะปรับปรุง?')){
+                   $.post("@Url.Action("Update","Reservation")", { 
+                     id : id,
+                     newRes : [
+                         document.getElementById('date').value,
+                         document.getElementById('time').value,
+                         document.getElementById('people').value,
+                         document.getElementById('zone').value,
+                         document.getElementById('bookNum').innerText,
+                     ],
+                     oldRes : [
+                         document.getElementById('table').value,
+                         date,
+                         time
+                     ]
+                    } ,function(text){
+                    alert(text);
+                 });
+               }
+           });
+        });
+  </script>
+}

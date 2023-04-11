@@ -1,0 +1,29 @@
+﻿body {
+    background-image: url('https://drive.google.com/uc?export=view&id=1JYG0TrFU73en-JsO4-ojIo32Rhr-8u6_');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#img-fluid {
+    margin-left: 20px;
+}
+
+.boxQoute {
+    text-align: center;
+    background-color: white;
+    padding: 50px 50px;
+    height: 500px;
+    width: 600px;
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 80px;
+}
+
+#qoute {
+    font-size: 50px;
+}
+
+#author {
+    font-size: 30px;
+    color: brown;
+}

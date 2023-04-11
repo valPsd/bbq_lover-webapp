@@ -1,0 +1,51 @@
+﻿@model IEnumerable<BBQLover.webapp.Models.Delivery>
+@{
+    ViewData["Title"] = "Delivery Page";
+}
+
+<head>
+    <link rel="stylesheet" href="~/css/DeliStyle.css" asp-append-version="true" />
+</head>
+
+<h2>เดลิเวอรี่ </h2>
+ <div class="resTable">
+<table class="table table-striped" style="background-color: #e3f2fd;">
+    <thead>
+        <tr>
+            <th scope="col">เลขออเดอร์</th>
+            <th scope="col">ชื่อลูกค้า</th>
+            <th scope="col">รายละเอียด/ลบ</th>
+        </tr>
+    </thead>
+    <tbody id="client">
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.OrderNum</td>
+                <td>@item.Name</td>
+                <td>
+                    <a href="@Url.Action("DeliDetails", "Delivery", new { Id = @item.Id })">
+                       <i class="fa fa-eye"></i>
+                    </a>
+                    <a href="#" onclick="deleteClicked(@item.OrderNum)">
+                        <i class="fa fa-trash"></i>
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+</div>
+
+@section scripts{
+    <script>
+        function deleteClicked(num) {
+            if (confirm('ยืนยันการลบ?')) {
+                $.post("@Url.Action("Delete","Delivery")", { orderNum : num } ,function(){
+                    alert("ทำการลบเรียบร้อย");
+                    window.location.reload(true);
+                 });
+            }
+        }
+    </script>
+}

@@ -1,0 +1,1345 @@
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\appsettings.Development.json
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\appsettings.json
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\libman.json
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\BBQLover.webapp.staticwebassets.runtime.json
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\BBQLover.webapp.exe
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\BBQLover.webapp.deps.json
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\BBQLover.webapp.runtimeconfig.json
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\BBQLover.webapp.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ref\BBQLover.webapp.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\BBQLover.webapp.pdb
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Firebase.Auth.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Humanizer.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\MessagePack.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.Build.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.Build.Tasks.Core.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.Build.Utilities.Core.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.ServiceModel.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\NuGet.Common.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.CodeDom.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Resources.Extensions.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.AssemblyInfoInputs.cache
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.AssemblyInfo.cs
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.csproj.CoreCompileInputs.cache
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.MvcApplicationPartsAssemblyInfo.cache
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.RazorAssemblyInfo.cache
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.RazorAssemblyInfo.cs
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\staticwebassets.build.json
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\staticwebassets.development.json
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\scopedcss\bundle\BBQLover.webapp.styles.css
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\scopedcss\projectbundle\BBQLover.webapp.bundle.scp.css
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.csproj.CopyComplete
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\ref\BBQLover.webapp.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.pdb
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.genruntimeconfig.cache
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.csproj.AssemblyReference.cache
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\bbq-lover.json
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Api.CommonProtos.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Api.Gax.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Api.Gax.Grpc.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Api.Gax.Grpc.GrpcCore.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Apis.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Apis.Auth.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Apis.Core.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Cloud.Firestore.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Cloud.Firestore.V1.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.LongRunning.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Protobuf.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Grpc.Auth.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Grpc.Core.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Linq.Async.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\appsettings.json
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\libman.json
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\BBQLover.webapp.staticwebassets.runtime.json
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\BBQLover.webapp.exe
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\bbq-lover.json
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\BBQLover.webapp.deps.json
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\BBQLover.webapp.runtimeconfig.json
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\BBQLover.webapp.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ref\BBQLover.webapp.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\BBQLover.webapp.pdb
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Firebase.Auth.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Api.CommonProtos.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Api.Gax.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Api.Gax.Grpc.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Api.Gax.Grpc.GrpcCore.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Apis.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Apis.Auth.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Apis.Core.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Cloud.Firestore.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Cloud.Firestore.V1.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.LongRunning.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Grpc.Auth.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Grpc.Core.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\MessagePack.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.Build.Tasks.Core.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.Build.Utilities.Core.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.ServiceModel.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Linq.Async.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Resources.Extensions.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.csproj.AssemblyReference.cache
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.AssemblyInfoInputs.cache
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.AssemblyInfo.cs
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.csproj.CoreCompileInputs.cache
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.RazorAssemblyInfo.cache
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.RazorAssemblyInfo.cs
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\scopedcss\bundle\BBQLover.webapp.styles.css
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\scopedcss\projectbundle\BBQLover.webapp.bundle.scp.css
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.csproj.CopyComplete
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\ref\BBQLover.webapp.dll
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.pdb
+C:\Users\ANTP\Downloads\webapp ASP.NET-20211216T130238Z-001\webapp ASP.NET\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.genruntimeconfig.cache
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\appsettings.json
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\libman.json
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\BBQLover.webapp.staticwebassets.runtime.json
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\BBQLover.webapp.exe
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\bbq-lover.json
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\BBQLover.webapp.deps.json
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\BBQLover.webapp.runtimeconfig.json
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\BBQLover.webapp.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ref\BBQLover.webapp.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\BBQLover.webapp.pdb
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Firebase.Auth.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Api.CommonProtos.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Api.Gax.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Api.Gax.Grpc.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Api.Gax.Grpc.GrpcCore.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Apis.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Apis.Auth.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Apis.Core.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Cloud.Firestore.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Cloud.Firestore.V1.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.LongRunning.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Grpc.Auth.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Grpc.Core.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.Build.Tasks.Core.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.Build.Utilities.Core.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.ServiceModel.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Linq.Async.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Resources.Extensions.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.csproj.AssemblyReference.cache
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.AssemblyInfoInputs.cache
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.AssemblyInfo.cs
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.csproj.CoreCompileInputs.cache
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.RazorAssemblyInfo.cache
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.RazorAssemblyInfo.cs
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\scopedcss\bundle\BBQLover.webapp.styles.css
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\scopedcss\projectbundle\BBQLover.webapp.bundle.scp.css
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.csproj.CopyComplete
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\ref\BBQLover.webapp.dll
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.pdb
+C:\Users\Vreval\Downloads\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.genruntimeconfig.cache
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\appsettings.Development.json
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\appsettings.json
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\libman.json
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\BBQLover.webapp.staticwebassets.runtime.json
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\BBQLover.webapp.exe
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\bbq-lover.json
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\BBQLover.webapp.deps.json
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\BBQLover.webapp.runtimeconfig.json
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\BBQLover.webapp.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ref\BBQLover.webapp.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\BBQLover.webapp.pdb
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Firebase.Auth.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Api.CommonProtos.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Api.Gax.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Api.Gax.Grpc.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Api.Gax.Grpc.GrpcCore.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Apis.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Apis.Auth.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Apis.Core.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Cloud.Firestore.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Cloud.Firestore.V1.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.LongRunning.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Protobuf.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Grpc.Auth.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Grpc.Core.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Humanizer.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\MessagePack.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.Build.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.Build.Tasks.Core.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.Build.Utilities.Core.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.ServiceModel.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\NuGet.Common.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.CodeDom.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Linq.Async.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Resources.Extensions.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.csproj.AssemblyReference.cache
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.AssemblyInfoInputs.cache
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.AssemblyInfo.cs
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.csproj.CoreCompileInputs.cache
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.MvcApplicationPartsAssemblyInfo.cache
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.RazorAssemblyInfo.cache
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.RazorAssemblyInfo.cs
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\staticwebassets.build.json
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\staticwebassets.development.json
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\scopedcss\bundle\BBQLover.webapp.styles.css
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\scopedcss\projectbundle\BBQLover.webapp.bundle.scp.css
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.csproj.CopyComplete
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\ref\BBQLover.webapp.dll
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.pdb
+C:\MyData\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.genruntimeconfig.cache
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\appsettings.Development.json
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\appsettings.json
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\libman.json
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\BBQLover.webapp.staticwebassets.runtime.json
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\BBQLover.webapp.exe
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\bbq-lover.json
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\BBQLover.webapp.deps.json
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\BBQLover.webapp.runtimeconfig.json
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\BBQLover.webapp.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\BBQLover.webapp.pdb
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Firebase.Auth.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Api.CommonProtos.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Api.Gax.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Api.Gax.Grpc.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Api.Gax.Grpc.GrpcCore.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Apis.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Apis.Auth.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Apis.Core.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Cloud.Firestore.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Cloud.Firestore.V1.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.LongRunning.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Google.Protobuf.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Grpc.Auth.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Grpc.Core.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Humanizer.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\MessagePack.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.Build.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.Build.Tasks.Core.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.Build.Utilities.Core.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.ServiceModel.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\NuGet.Common.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.CodeDom.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Linq.Async.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Resources.Extensions.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.csproj.AssemblyReference.cache
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.AssemblyInfoInputs.cache
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.AssemblyInfo.cs
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.csproj.CoreCompileInputs.cache
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.MvcApplicationPartsAssemblyInfo.cache
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.RazorAssemblyInfo.cache
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.RazorAssemblyInfo.cs
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\staticwebassets.build.json
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\staticwebassets.development.json
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\scopedcss\bundle\BBQLover.webapp.styles.css
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\scopedcss\projectbundle\BBQLover.webapp.bundle.scp.css
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.csproj.CopyComplete
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\refint\BBQLover.webapp.dll
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.pdb
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\BBQLover.webapp.genruntimeconfig.cache
+C:\MyData\Projects\BBQ_Lover_Project\BBQLover.webapp\BBQLover.webapp\BBQLover.webapp\obj\Debug\net6.0\ref\BBQLover.webapp.dll

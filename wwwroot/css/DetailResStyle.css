@@ -1,0 +1,45 @@
+﻿.row img {
+    padding-left: 30px;
+    margin-top: 20px;
+}
+
+#col2 {
+    margin-top: 60px;
+    padding-left: 0;
+}
+
+#col2 p {
+   font-size: 25px;
+   font-weight: 500;
+}
+
+#buttom {
+    border-bottom: 2px solid white;
+}
+
+#bookNum {
+    padding-left: 31px;
+    font-size: 50px;
+    font-weight: 700;
+    color: #ffefed;
+}
+
+#detailRow {
+    margin-top: 40px;
+    padding-left: 20px;
+}
+
+.tRow {
+    margin-top: 2px;
+    text-align: end;
+}
+
+input {
+    background-color: white;
+    padding-left: 10px;
+}
+
+button {
+    width: 130px;
+    height: 50px;
+}

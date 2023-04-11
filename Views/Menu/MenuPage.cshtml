@@ -1,0 +1,90 @@
+﻿@model IEnumerable<BBQLover.webapp.Models.Menu>
+@{
+    ViewData["Title"] = "Menu Edit Page";
+}
+
+<head>
+    <link rel="stylesheet" href="~/css/MenuStyle.css" asp-append-version="true" />
+</head>
+
+<h1>แก้ไขเมนู</h1>
+    <table class="menuTable table table-striped">
+        <thead>
+            <tr>
+                <th scope="col">รูปอาหาร</th>
+                <th scope="col">ชื่ออาหาร</th>
+                <th scope="col">ราคา</th>
+                <th scope="col">จำนวน</th>
+                <th scope="col">แก้ไข</th>
+                <th scope="col">สถานะ</th>
+
+            </tr>
+        </thead>
+        <tbody id="admin">
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        <img src="@item.Image">
+                    </td>
+                    <td>
+                        <p>@item.Name</p>
+                    </td>
+                    <td>
+                        <input type="number" id="@item.Id+inputprice" value="@item.Price" min=0>
+                    </td>
+                    <td>
+                        <input type="number" id="@item.Id+inputstock" value="@item.Stock" min=0>
+                    </td>
+                    <td>
+                        <button class="btn btn-primary" onclick="changeClicked('@item.Id')">แก้ไข</button>
+                    </td>
+                    <td>
+                        @if (@item.Show == true)
+                        {
+                            <button class="btn btn-success" onclick="changeStatusClicked('@item.Id', '@item.Show')">แสดง</button>
+                        }
+                        else{
+                            <button class="btn btn-danger" onclick="changeStatusClicked('@item.Id', '@item.Show')">ไม่แสดง</button>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+@section scripts{
+    <script>
+        function changeClicked(id) {
+            var price = document.getElementById(id+"+inputprice").value;
+            var stock = document.getElementById(id+"+inputstock").value;
+            if (confirm('ยืนยันการแก้ไข?')) {
+                $.post("@Url.Action("Edit","Menu")", { 
+                   id : id,
+                    mode : "edit",
+                    price : price,
+                    stock : stock,
+                    show : "non"
+                } ,function(text){
+                    alert(text);
+                    window.location.reload(true);
+                 });
+            }
+        }
+
+        function changeStatusClicked(id, show) {
+            if (confirm('ต้องการเปลี่ยนสถานะของเมนูนี้หรือไม่?')) {
+                $.post("@Url.Action("Edit","Menu")", { 
+                   id : id,
+                   mode : "change",
+                   show : show,
+                   price : 0,
+                   stock : 0,
+                } ,function(text){
+                    alert(text);
+                    window.location.reload(true);
+                 });
+            }
+        }
+    </script>
+}

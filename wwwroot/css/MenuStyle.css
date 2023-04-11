@@ -1,0 +1,42 @@
+﻿input {
+    width: 70px;
+}
+
+img {
+    width: 80px;
+    height: 80px;
+}
+
+button {
+    margin-right: 10px;
+}
+
+h1 {
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.menuTable {
+    border-radius: 20px;
+    background-color: rgb(253, 212, 184);
+    width: 90%;
+    margin: 0 auto;
+    table-layout: fixed;
+    justify-content: center;
+    text-align: center;
+}
+
+thead {
+    background-color: chocolate;
+    color: white;
+}
+
+    thead th:first-of-type {
+        border-top-left-radius: 20px;
+    }
+
+    thead th:last-of-type {
+        border-top-right-radius: 20px;
+    }
